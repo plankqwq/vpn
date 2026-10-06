@@ -1,0 +1,7 @@
+name = "vless-proxy"
+main = "worker-vless.js"
+compatibility_date = "2024-11-27"
+
+# 以下为可选配置，如无需可变可删除
+# [vars]
+# UUID = "0c43b147-f27a-4e04-9f5b-b6a61fcb497d"
